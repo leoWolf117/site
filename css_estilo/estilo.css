@@ -12,11 +12,13 @@
     font-size: 13px;
 }
 
-.col-md-6{
-    border: solid 1px black;
-}
-
 footer{
+    border-top: 2px solid black;
     height: 5px;
     padding: 10px;
+}
+
+.card{
+    margin: 100px;
+    width: 18rem;
 }
