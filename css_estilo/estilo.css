@@ -1,24 +1,25 @@
-.marcador{
-    background: #fe9d9d;
-    border: 1px solid #f94646;
-}
-.marcador-container{
-    background: grey;
-    border: 1px solid black;
 
+/*______________________FORMATAÇÃO DA PAGINA__________________________________*/
+
+body{
+    background-attachment: fixed;
 }
 
-.registro{
-    font-size: 13px;
+html, body, #home{
+  height: 100%;  
+} 
+
+/*_______________________EDIÇÃO DA ENTRADA_________________________________*/
+
+.capa{
+    text-align: center;
 }
 
-footer{
-    border-top: 2px solid black;
-    height: 5px;
-    padding: 10px;
+h1{
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: black;
 }
 
-.card{
-    margin: 100px;
-    width: 18rem;
-}
+
