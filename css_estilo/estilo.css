@@ -22,4 +22,23 @@ h1{
     color: black;
 }
 
+/*_______________________EDIÇÃO DOS BOTÕES_________________________________*/
 
+.btn-custom{
+    color: white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s color 0.4s; 
+    padding: 10px 15px;
+}
+
+.btn-grey{
+    background: #666666;
+}
+
+.btn-grey:hover{
+    background: black;
+    color: #f7f4f4;
+}
