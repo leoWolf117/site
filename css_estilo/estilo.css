@@ -3,6 +3,7 @@
 
 body{
     background: url(../imagens/engre.jpg);
+    background-attachment: fixed;
 }
 
 html, body, #home{
@@ -41,4 +42,12 @@ h1{
 .btn-grey:hover{
     background: black;
     color: #f7f4f4;
+}
+
+/*_______________________CONTEUDO DE SERVIÇOS_________________________________*/
+
+.serviços{
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
