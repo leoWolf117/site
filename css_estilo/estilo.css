@@ -2,7 +2,7 @@
 /*______________________FORMATAÇÃO DA PAGINA__________________________________*/
 
 body{
-    background-attachment: fixed;
+    background: url(../imagens/engre.jpg);
 }
 
 html, body, #home{
@@ -19,7 +19,7 @@ h1{
     font-weight: 900;
     letter-spacing: -0.05em;
     margin-bottom: 50px;
-    color: black;
+    color: white;
 }
 
 /*_______________________EDIÇÃO DOS BOTÕES_________________________________*/
