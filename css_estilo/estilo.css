@@ -27,6 +27,12 @@ html, body, #home{
     margin-right: 5px;
 }
 
+/*_______________________EDIÇÃO DO RODAPE_________________________________*/
+
+footer {
+    
+}
+
 
 
 /*_______________________EDIÇÃO DA ENTRADA_________________________________*/
@@ -69,3 +75,4 @@ h1{
     background: white;
     padding: 10px 5px 5px 10px;
 }
+
