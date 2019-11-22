@@ -30,9 +30,21 @@ html, body, #home{
 /*_______________________EDIÇÃO DO RODAPE_________________________________*/
 
 footer {
-    
+    background: black;
+    padding: 50px 0px 20px 0px;
+    text-align: center;
 }
 
+li a{
+    display: none;
+    color: #666666;
+}
+
+i{
+    font-size: 30px;
+    margin-left: 6px;
+    color: #666666;
+}
 
 
 /*_______________________EDIÇÃO DA ENTRADA_________________________________*/
