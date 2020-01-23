@@ -33,15 +33,16 @@ footer {
     background: black;
     padding: 50px 0px 20px 0px;
     text-align: center;
-}
+    }
 
-li a{
-    display: none;
-    color: #666666;
+h4{
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
 }
 
 i{
-    font-size: 30px;
+    font-size: 2em;
     margin-left: 6px;
     color: #666666;
 }
@@ -54,7 +55,7 @@ i{
 }
 
 h1{
-    font-weight: 900;
+    font-weight: 900px;
     letter-spacing: -0.05em;
     margin-bottom: 50px;
     color: white;
@@ -85,6 +86,8 @@ h1{
 
 .serviços{
     background: white;
+    width: 100%;
     padding: 10px 5px 5px 10px;
 }
 
+    

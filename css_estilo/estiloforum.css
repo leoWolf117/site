@@ -1,0 +1,46 @@
+/*______________________FORMATAÇÃO DA PAGINA__________________________________*/
+
+body{
+    background: url(../imagens/engre.jpg);
+    background-attachment: fixed;
+}
+
+html, body, #home{
+  height: 100%;  
+} 
+
+/*_______________________EDIÇÃO DO RODAPE_________________________________*/
+
+footer {
+    background: black;
+    padding: 50px 0px 20px 0px;
+    text-align: center;
+    }
+
+h4{
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+i{
+    font-size: 2em;
+    margin-left: 6px;
+    color: #666666;
+}
+
+/*_______________________CONTEUDO DO FORUM_________________________________*/
+
+.serviços{
+    background: white;
+    width: 100%;
+    padding: 10px 5px 5px 10px;
+}
+
+.exibição{
+    padding-left: 20px;
+}
+
+.registro{
+    padding-left: 20px;
+}
