@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" 
+    integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" 
+    crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css_estilo/estilo.css" rel="stylesheet">
+    <link href="css_estilo/estilo_cadastro.css" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ENG - Suporte </title>
+</head>
+<body>
+    
+    
+ <!--Barra de navegação-->   
+ <header>
+ <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark ">
+        <div class="container" id="navbarNav">
+                <a href="index.html"><img src="ingrenagem.png"></a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-principal">
+                    <i class="fas fa-bars text-white"></i>
+                </button>
+            <div class="collapse navbar-collapse" id="nav-principal">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="forum.html" class="nav-link">Forum</a>
+                    </li>
+                    <li class="nav-item">
+                            <a href="" class="nav-link">Ajuda</a>
+                    </li>
+                    <li class="nav-item">
+                            <a href="cadastro.html" class="nav-link">Inscrever-se</a>
+                    </li>
+                    <li class="nav-item">
+                            <a href="" class="nav-link">Entrar</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+ </nav> 
+</header>
+<!--fim da barra de navegação-->
+<br><br><br><br>
+
+<div class="modal-dialog text-center">
+    <div class="col-sm-9 main-section">
+        <div class="modal-content">
+            <div class="col-12 user-img">
+                <img src="ingrenagem.png">
+            </div>
+            <form class="col-12">
+                <div class="form-group" id="user-group">
+                    <input type="text" class="form-control" id="form-control" placeholder="Nome de usuario"/>
+                </div>
+                <div class="form-group" id="contrasena-group">
+                    <input type="password" class="form-control" id="contrasena-group" placeholder="Digite sua senha"/>
+                </div>
+            </form>
+            <button type="button" class="btn btn-dark">logar</button>
+            <div class="col-12 forgot">
+                <a href="@">Esqueceu sua senha ?</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
+     <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

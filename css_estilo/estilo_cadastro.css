@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(../imagens/engre.jpg);
+    background-attachment: fixed;
+}
+
+.user-img{
+
+    margin-top: 10px;
+    margin-bottom: 35px;
+    
+}
+
+.user-img{
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 25%;
+    padding: 0;
+}
+
+.main-content{
+    background-color: #3b4652;
+    opacity: .85;
+    padding: 0 20px;
+    box-shadow: 0px 0px 3px #848484;
+}
+
+.form-group input{
+    height: 42px;
+    font-size: 18px;
+    border: 1px 1px solid;
+}
+
+.btn{
+    align-self: center;
+    padding: 10px 15px;
+    width: 20%;
+}
+
+.forgot{
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
