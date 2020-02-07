@@ -44,4 +44,14 @@ i{
 .registro{
     padding-left: 20px;
 }
+ 
+/*_______________________________CARD______________________________________________*/
 
+.card{
+    margin: 5px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-radius: 11px 11px 11px 11px;
+    border-bottom: 2px solid black;
+}
